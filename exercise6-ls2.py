@@ -12,17 +12,19 @@
 
 how_much_product = int(input('Введите количество всего  товара '))
 step = 0
+new_list = []
 while True:
     step += 1
     if step > how_much_product:
         break
-    name = input('Название товара: ')
-    price = input('Цена товара: ')
-    quantity = input('Количество в ШТ: ')
+    name = input(f'Название товара {step}: ')
+    price = input(f'Цена товара {step}: ')
+    quantity = input(f'Количество в ШТ {step}: ')
     product = {"Название": name,
                "Цена": price,
                "Количество": quantity,
                "ед": 'шт.'}
     answer = (step, product)
-    print(answer)
-
+    new_list.append(answer)
+for i in new_list:
+    print(i)
