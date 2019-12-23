@@ -37,3 +37,16 @@ if answer is None:
     print('Нет такого месяца')
 else:
     print(answer)
+
+# dic 2
+
+answer_wen = []
+mess = int(input('Введите месяц '))
+mess_dic = {'Winter': [12, 1, 2],
+            'Spring': [3, 4, 5],
+            'Summer': [6, 7, 8],
+            'Autumn': [9, 10, 11]}
+for k, v in mess_dic.items():
+    if mess in v:
+        answer_wen.append(k)
+print(''.join(answer_wen))
