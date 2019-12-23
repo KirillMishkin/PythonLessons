@@ -26,5 +26,8 @@ while True:
                "ед": 'шт.'}
     answer = (step, product)
     new_list.append(answer)
+print('[')
 for i in new_list:
     print(i)
+print(']')
+
