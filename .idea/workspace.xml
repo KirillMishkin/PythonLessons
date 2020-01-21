@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f5c3a00-4386-47a6-8e76-219d8fcb4996" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/exercise2-ls5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise3-ls5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise4-ls5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise5-ls5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise6-ls5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_exercise6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sum_number_exercise5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Методичка.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VD58XhJQVhYS63XTZOj5ZpMAY6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.exercise5-ls5">
+    <configuration name="exercise1-ls5" type="PythonConfigurationType" factoryName="Python">
+      <module name="PythonLessons" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise1-ls5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise2-ls5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonLessons" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise2-ls5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise4 - ls5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonLessons" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise4-ls5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise5-ls5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonLessons" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise5-ls5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise6-ls5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonLessons" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise6-ls5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonLessons" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.exercise1-ls5" />
+      <item itemvalue="Python.exercise4 - ls5" />
+      <item itemvalue="Python.exercise5-ls5" />
+      <item itemvalue="Python.exercise6-ls5" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.exercise2-ls5" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.exercise5-ls5" />
+        <item itemvalue="Python.exercise2-ls5" />
+        <item itemvalue="Python.exercise6-ls5" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.exercise4 - ls5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f5c3a00-4386-47a6-8e76-219d8fcb4996" name="Default Changelist" comment="" />
+      <created>1576774665761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576774665761</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="126" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579534514781">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1579294971648" />
+    <state x="184" y="126" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.829@0.23.1440.829" timestamp="1579534514781" />
+    <state x="451" y="247" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579560649908">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="451" y="247" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.830@0.23.1440.830" timestamp="1579560649908" />
+    <state x="507" y="162" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1579294970959">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="507" y="162" key="#com.intellij.ide.macro.MacrosDialog/0.0.1440.900@0.0.1440.900" timestamp="1579294970959" />
+    <state x="458" y="191" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579571697608">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="458" y="191" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.829@0.23.1440.829" timestamp="1579571697608" />
+    <state x="458" y="191" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.830@0.23.1440.830" timestamp="1579511082933" />
+    <state x="440" y="131" key="#exercise1-ls5" timestamp="1579295295904">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="440" y="131" key="#exercise1-ls5/0.0.1440.900@0.0.1440.900" timestamp="1579295295904" />
+    <state x="440" y="71" key="#Методичка" timestamp="1579294771007">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="440" y="71" key="#Методичка/0.0.1440.900@0.0.1440.900" timestamp="1579294771007" />
+    <state width="1419" height="173" key="GridCell.Tab.0.bottom" timestamp="1579571687021">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1419" height="243" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579295297934" />
+    <state width="1419" height="212" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1577559377670" />
+    <state width="1419" height="212" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1577912453276" />
+    <state width="1419" height="243" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1579299417246" />
+    <state width="1419" height="173" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1579571687021" />
+    <state width="1419" height="243" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1579561209876" />
+    <state width="1419" height="243" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1579509564859" />
+    <state width="1419" height="173" key="GridCell.Tab.0.center" timestamp="1579571687020">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1419" height="243" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579295297932" />
+    <state width="1419" height="212" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1577559377669" />
+    <state width="1419" height="212" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1577912453276" />
+    <state width="1419" height="243" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1579299417245" />
+    <state width="1419" height="173" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1579571687020" />
+    <state width="1419" height="243" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1579561209874" />
+    <state width="1419" height="243" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1579509564857" />
+    <state width="1419" height="173" key="GridCell.Tab.0.left" timestamp="1579571687019">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1419" height="243" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579295297931" />
+    <state width="1419" height="212" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1577559377669" />
+    <state width="1419" height="212" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1577912453275" />
+    <state width="1419" height="243" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1579299417244" />
+    <state width="1419" height="173" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1579571687019" />
+    <state width="1419" height="243" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1579561209873" />
+    <state width="1419" height="243" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1579509564857" />
+    <state width="1419" height="173" key="GridCell.Tab.0.right" timestamp="1579571687021">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1419" height="243" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579295297932" />
+    <state width="1419" height="212" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1577559377670" />
+    <state width="1419" height="212" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1577912453276" />
+    <state width="1419" height="243" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1579299417246" />
+    <state width="1419" height="173" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1579571687021" />
+    <state width="1419" height="243" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1579561209875" />
+    <state width="1419" height="243" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1579509564858" />
+    <state width="1419" height="266" key="GridCell.Tab.1.bottom" timestamp="1579535112507">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1419" height="266" key="GridCell.Tab.1.bottom/0.23.1440.829@0.23.1440.829" timestamp="1579535112507" />
+    <state width="1419" height="266" key="GridCell.Tab.1.center" timestamp="1579535112506">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1419" height="266" key="GridCell.Tab.1.center/0.23.1440.829@0.23.1440.829" timestamp="1579535112506" />
+    <state width="1419" height="266" key="GridCell.Tab.1.left" timestamp="1579535112506">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1419" height="266" key="GridCell.Tab.1.left/0.23.1440.829@0.23.1440.829" timestamp="1579535112506" />
+    <state width="1419" height="266" key="GridCell.Tab.1.right" timestamp="1579535112507">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1419" height="266" key="GridCell.Tab.1.right/0.23.1440.829@0.23.1440.829" timestamp="1579535112507" />
+    <state x="229" y="74" key="SettingsEditor" timestamp="1576774801187">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="229" y="74" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1576774801187" />
+    <state x="385" y="172" width="670" height="676" key="search.everywhere.popup" timestamp="1577479068226">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="385" y="172" width="670" height="676" key="search.everywhere.popup/0.23.1440.825@0.23.1440.825" timestamp="1577479068226" />
+  </component>
+</project>
