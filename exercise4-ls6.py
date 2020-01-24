@@ -16,6 +16,10 @@ class Car:
         self.color = color
         self.name = name
         self.is_police = is_police
+        self.show_speed()
+        self.go_method()
+        self.turn_method()
+        self.stop_method()
 
     def show_speed(self):
         if not self.is_police:
@@ -49,31 +53,24 @@ class Car:
 
 
 class TownCar(Car):
-    pass
+    def __init__(self, speed, color, name, is_police):
+        super().__init__(speed, color, name, is_police)
+
 
 
 class WorkCar(Car):
-    pass
+    def __init__(self, speed, color, name, is_police):
+        super().__init__(speed, color, name, is_police)
 
 
 class PoliceCare(Car):
-    pass
+    def __init__(self, speed, color, name, is_police):
+        super().__init__(speed, color, name, is_police)
 
 
 tc = TownCar(60, 'White', 'LADA', False)
-tc.show_speed()
-tc.go_method()
-tc.turn_method()
-tc.stop_method()
 
 wc = WorkCar(40, 'Red', 'BobCat', False)
-wc.show_speed()
-wc.go_method()
-wc.turn_method()
-wc.stop_method()
 
 pc = PoliceCare(100, 'Blue', 'Ford', True)
-pc.show_speed()
-pc.go_method()
-pc.turn_method()
-pc.stop_method()
+
