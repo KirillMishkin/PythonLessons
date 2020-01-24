@@ -39,7 +39,7 @@ class Car:
             new_turn.append(x)
             sleep(2)
             if turn[2] in new_turn[i]:
-                speed += 10
+                speed += randrange(5, 20, 2)
             print(new_turn[i])
             print(f'Speed: {speed}')
             if speed > self.speed:
