@@ -7,6 +7,7 @@
 from itertools import cycle
 from time import sleep
 from random import sample
+from random import randrange
 
 
 class Car:
@@ -17,18 +18,22 @@ class Car:
         self.is_police = is_police
 
     def show_speed(self):
-        print(f'Максимальная скорочть {self.name} =  {self.speed}')
+        if not self.is_police:
+            print(f'Максимальная скорость {self.name} =  {self.speed}')
+        else:
+            print(f'Максимальная скорость полицейской машины {self.name} = {self.speed}')
 
     def go_method(self):
-        print('Машина поехала')
+        print('Машина поехала\n')
 
     def stop_method(self):
-        print('Машина остановилась')
+        sleep(1)
+        print('Машина остановилась\n')
 
     def turn_method(self):
         turn = ['Налево', 'Направо', 'Едет прямо', 'Едет прямо', 'Едет прямо', 'Едет прямо']
         new_turn = []
-        speed = 10  # начальная скорость движения
+        speed = randrange(1, 10)  # начальная скорость движения
         i = 0
         for x in cycle(sample(turn, 3)):
             new_turn.append(x)
@@ -66,3 +71,9 @@ wc.show_speed()
 wc.go_method()
 wc.turn_method()
 wc.stop_method()
+
+pc = PoliceCare(100, 'Blue', 'Ford', True)
+pc.show_speed()
+pc.go_method()
+pc.turn_method()
+pc.stop_method()
