@@ -5,32 +5,34 @@
 # метод для каждого экземпляра.
 from time import sleep
 
+
 class Stationery:
     def __init__(self, title):
         self.title = title
+        self.draw_method()
 
     def draw_method(self):
         sleep(1)
-        print(f'Запуск отрисовки {self.title}')
+        print('Запуск отрисовки', self.title)
 
 
 class Pen(Stationery):
-    pass
+    def __init__(self, title):
+        super().__init__(title)
 
 
 class Pencil(Stationery):
-    pass
+    def __init__(self, title):
+        super().__init__(title)
 
 
 class Handle(Stationery):
-    pass
+    def __init__(self, title):
+        super().__init__(title)
 
 
-go_pen = Pen('Pen(ручка)')
-go_pen.draw_method()
+go_pen = Pen('Pen')
 
-go_pencil = Pencil('Pencil(карандаш)')
-go_pencil.draw_method()
+go_pencil = Pencil('Pencil')
 
-go_handle = Handle('Handle(маркер)')
-go_handle.draw_method()
+go_handle = Handle('Handle')
