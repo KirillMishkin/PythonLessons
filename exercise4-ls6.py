@@ -38,7 +38,7 @@ class Car:
         for x in cycle(sample(turn, 3)):
             new_turn.append(x)
             sleep(2)
-            if turn[2] in new_turn[i]:
+            if 'Едет прямо' in new_turn[i]:
                 speed += randrange(5, 20, 2)
             print(new_turn[i])
             print(f'Speed: {speed}')
