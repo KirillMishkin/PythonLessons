@@ -45,12 +45,8 @@ class Cell:
             self.new_cell = ['*'] * my_sum
             return self.new_cell
 
-        elif (self.my_cell_1 - other.my_cell_1) == 0:
-            self.new_cell = ['*'] * 0
-            return self.new_cell
-
-        elif other.my_cell_1 - self.my_cell_1 == 0:
-            self.new_cell = ['*'] * 0
+        elif (self.my_cell_1 - other.my_cell_1) or other.my_cell_1 - self.my_cell_1 == 0:
+            self.new_cell = []
             return self.new_cell
 
         else:
@@ -61,9 +57,9 @@ class Cell:
         return self.new_cell
 
     def __truediv__(self, other):  # деление
-        if self.my_cell_1 // other.my_cell_1 > 1:
+        if self.my_cell_1 // other.my_cell_1 >= 1:
             self.new_cell = ['*'] * (self.my_cell_1 // other.my_cell_1)
-        elif other.my_cell_1 // self.my_cell_1 > 1:
+        elif other.my_cell_1 // self.my_cell_1 >= 1:
             self.new_cell = ['*'] * (other.my_cell_1 // self.my_cell_1)
         else:
             'Не верный данный для деления'
@@ -73,8 +69,12 @@ class Cell:
 
     def make_order(self):
         i = 5
-        if i > len(self.new_cell):
+        if i > len(self.new_cell) > 0:
             return ''.join(self.new_cell)
+
+        elif len(self.new_cell) == 0:
+            return 'Нет клеток'
+
         else:
             while True:
                 if i > len(self.new_cell):
@@ -85,11 +85,11 @@ class Cell:
 
 
 '''Первая клетка'''
-x_cell_1 = 7
+x_cell_1 = 5
 cell_1 = ['*' for m in range(x_cell_1)]
 
 '''Вторая клетка'''
-x_cell_2 = 2
+x_cell_2 = 3
 cell_2 = ['*' for n in range(x_cell_2)]
 
 all_cell = len(cell_2) + len(cell_1)
